@@ -1,7 +1,8 @@
 ### Olá! Me chamo Juan Ferreira.
 
 - 🔭 Hoje eu trabalho como técnico de informatica
-- 🌱 Estudando HTML, CSS e logica de programação
+- 🌱 Sou recém-formado no curso de Desenvolvimento Multiplataforma pela FATEC de Osasco
+- 📚 Atualmente estou focando na área de FullStack e Python
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferreirajuan)](https://github.com/ferreirajuan/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirajuan&layout=compact)](https://github.com/aferreirajuan/github-readme-stats)
