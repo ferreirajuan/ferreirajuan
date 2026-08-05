@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu trabalho como técnico de informatica
 - 🌱 Sou formado no curso de Desenvolvimento Multiplataforma pela FATEC de Osasco
-- 📚 Atualmente estou focando na área de Desenvolvimento Web
+- 📚 Atualmente estou focando na área de Desenvolvimento FullStack
 - 📚 Começando os estudos em Java
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferreirajuan)](https://github.com/ferreirajuan/github-readme-stats)
