@@ -1,53 +1,42 @@
-### Olá! Me chamo Juan Ferreira.
+# Juan Ferreira
 
-- 🔭 Hoje eu trabalho como técnico de informatica
-- 🌱 Sou formado no curso de Desenvolvimento Multiplataforma pela FATEC de Osasco
-- 📚 Atualmente estou focando na área de Desenvolvimento FullStack
-- 📚 Começando os estudos em Java
+**Desenvolvedor Full Stack**, graduado em Desenvolvimento de Software Multiplataforma pela FATEC Osasco.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+Construo aplicações web com foco em interfaces responsivas, consumo de APIs e código organizado. Atualmente aprofundo meus conhecimentos em **React, Java e desenvolvimento backend**.
 
+- 💻 Trabalho como técnico de informática
+- 🌱 Estudando Java e o ecossistema Full Stack
+- 🎯 Em busca de oportunidades como desenvolvedor
+- 📍 São Paulo, Brasil
 
-##
- 
-<div>
-  <a href = "mailto:juanribeiro30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/juan-ferreira-ribeiro-9202b91b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## Projetos em destaque
 
-## 📊 Estatísticas do GitHub
+### 🦸 [HeroVerse](https://github.com/ferreirajuan/heroverse-react)
 
-<div align="center">
+Catálogo responsivo de heróis e vilões com busca, páginas de detalhes e dados consumidos de uma API REST.
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ferreirajuan&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ferreirajuan&show_icons=true&theme=default&hide_border=true&locale=pt-br"
-    media="(prefers-color-scheme: light)"
-  />
-  <img
-    height="180"
-    alt="Estatísticas de Juan Ferreira no GitHub"
-    src="https://github-readme-stats.vercel.app/api?username=ferreirajuan&show_icons=true&hide_border=true&locale=pt-br"
-  />
-</picture>
+`React` · `Vite` · `React Router` · `JavaScript` · `CSS`
+
+### 🕷️ [Spider Tracker](https://github.com/ferreirajuan/spider-tracker)
+
+Aplicação para registrar e acompanhar avistamentos, criada para praticar componentização, gerenciamento de estado e evolução incremental com React.
+
+`React` · `Vite` · `JavaScript` · `CSS`
+
+### 💡 [API de Conselhos](https://github.com/ferreirajuan/api-conselhos)
+
+Interface responsiva que consome uma API externa e apresenta conselhos aleatórios usando requisições assíncronas.
+
+`JavaScript` · `Fetch API` · `HTML` · `CSS`
+
+## Tecnologias
+
+**Frontend:** React, JavaScript, HTML e CSS  
+**Backend e estudos:** Java e Python  
+**Banco de dados:** MySQL  
+**Ferramentas:** Git, GitHub e Vite
+
+## Linguagens mais usadas
 
 <picture>
   <source
@@ -59,30 +48,15 @@
     media="(prefers-color-scheme: light)"
   />
   <img
-    height="180"
+    height="165"
     alt="Linguagens mais usadas por Juan Ferreira"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirajuann&layout=compact&hide_border=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirajuan&layout=compact&hide_border=true&locale=pt-br"
   />
 </picture>
 
-<br>
+## Contato
 
-<picture>
-  <source
-    srcset="https://streak-stats.demolab.com?user=ferreirajuan&theme=github-dark-blue&hide_border=true&locale=pt_BR"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com?user=ferreirajuan&theme=default&hide_border=true&locale=pt_BR"
-    media="(prefers-color-scheme: light)"
-  />
-  <img
-    alt="Sequência de contribuições de Juan Ferreira"
-    src="https://streak-stats.demolab.com?user=ferreirajuan&hide_border=true&locale=pt_BR"
-  />
-</picture>
+Estou aberto a oportunidades, projetos e boas conversas sobre tecnologia.
 
-</div>
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-ferreira-ribeiro-9202b91b5/)
+[![E-mail](https://img.shields.io/badge/E--mail-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:juanribeiro30@gmail.com)
