@@ -29,30 +29,12 @@ Interface responsiva que consome uma API externa e apresenta conselhos aleatóri
 
 `JavaScript` · `Fetch API` · `HTML` · `CSS`
 
-## Tecnologias
-
-**Frontend:** React, JavaScript, HTML e CSS  
-**Backend e estudos:** Java e Python  
-**Banco de dados:** MySQL  
-**Ferramentas:** Git, GitHub e Vite
-
 ## Linguagens mais usadas
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirajuan&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirajuan&layout=compact&theme=default&hide_border=true&locale=pt-br"
-    media="(prefers-color-scheme: light)"
-  />
-  <img
-    height="165"
-    alt="Linguagens mais usadas por Juan Ferreira"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirajuan&layout=compact&hide_border=true&locale=pt-br"
-  />
-</picture>
+**Frontend:** React, JavaScript, HTML e CSS  
+**Backend:** Java e Python  
+**Banco de dados:** MySQL  
+**Ferramentas:** Git, GitHub e Vite
 
 ## Contato
 
